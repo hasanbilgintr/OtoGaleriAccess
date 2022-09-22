@@ -1,0 +1,70 @@
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe.config
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.pdb
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csprojAssemblyReference.cache
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Properties.Resources.resources
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.exe
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.pdb
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Giris.resources
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Kullanıci.resources
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_TaksitBilgisi.resources
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Tanımlamalar.resources
+C:\Users\hasan\source\repos\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Admin.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe.config
+D:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe
+D:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.pdb
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csprojAssemblyReference.cache
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Admin.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Giris.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Kullanıci.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_TaksitBilgisi.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Tanımlamalar.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Properties.Resources.resources
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.GenerateResource.cache
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.CoreCompileInputs.cache
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.exe
+D:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.pdb
+E:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe.config
+E:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe
+E:\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.pdb
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csprojAssemblyReference.cache
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Admin.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Giris.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Kullanıci.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_TaksitBilgisi.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Tanımlamalar.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Properties.Resources.resources
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.GenerateResource.cache
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.CoreCompileInputs.cache
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.exe
+E:\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.pdb
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe.config
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.pdb
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csprojAssemblyReference.cache
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Admin.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Giris.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Kullanıci.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_TaksitBilgisi.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Tanımlamalar.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Properties.Resources.resources
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.GenerateResource.cache
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.CoreCompileInputs.cache
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.exe
+E:\Yerel Disk D\USB\Projeler\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.pdb
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe.config
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.exe
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\bin\Debug\OtoGaleri.pdb
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csprojAssemblyReference.cache
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Admin.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Giris.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Kullanıci.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_TaksitBilgisi.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Frm_Tanımlamalar.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.Properties.Resources.resources
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.GenerateResource.cache
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.csproj.CoreCompileInputs.cache
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.exe
+C:\YerelDiskD\USB\Projeler\Masaustu\OtoGaleri\OtoGaleri\obj\Debug\OtoGaleri.pdb
