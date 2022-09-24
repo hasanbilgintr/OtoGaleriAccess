@@ -1,2 +1,2 @@
 # OtoGaleriAccess
-![image](https://user-images.githubusercontent.com/49581443/192099151-c4cf3b9a-92c2-48b1-9394-9934210e0177.png)
+![image](https://user-images.githubusercontent.com/49581443/192099184-09e3343d-ab64-402b-951b-b87f4014b644.png)
